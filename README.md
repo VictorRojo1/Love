@@ -3,4 +3,4 @@
 * The oposite is indifference.
 
 # Hate - What is it?
-*The intense dislike.
+* The intense dislike.
